@@ -1,0 +1,40 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Check out my React rendered Résumé",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cezar-carneiro/resume.git"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "html",
+	"css",
+    "javascript",
+    "react"
+  ],
+  "author": "Cezar Carneiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cezar-carneiro/resume/issues"
+  },
+  "homepage": "https://cezar-carneiro.github.io/resume",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

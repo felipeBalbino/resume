@@ -1,0 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Resume from './Resume';
+import registerServiceWorker from './registerServiceWorker';
+import './index.css';
+
+ReactDOM.render(<Resume />, document.getElementById('root'));
+registerServiceWorker();
