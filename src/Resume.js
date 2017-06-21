@@ -26,47 +26,58 @@ class Resume extends Component {
               <dd className="clear"></dd>
 
               <dd>
-                  <h2>Withering Madness University - Planet Vhoorl</h2>
-                  <p><strong>Major:</strong> Public Relations<br />
-                    <strong>Minor:</strong> Scale Tending</p>
+                  <h2>Education</h2>
+                  <p>
+                    Computer Science, Bachelor<br />
+                    August, 2014 <br />
+                    Pontifical Catholic University, Brazil
+                  </p>
               </dd>
               
               <dd className="clear"></dd>
               
               <dd>
-                  <h2>Office skills</h2>
-                  <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
-                  
-                  <h2>Computer skills</h2>
-                  <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
+                  <h2>Professional Experience</h2>
+                  <p><strong>November, 2016 - Today</strong><br/>
+                  <strong>Plain Android Developer</strong><br />
+                  <strong>“Máxima Sistemas”, Goiânia</strong><br />
+                  Maintain and evolve mature Android Apps, designs new functionalities and implements them.
+                  Optimize performance, improves usability and applies new technologies and techniques to the apps.</p>
+
+                  <p><strong>January, 2014 - November, 2016</strong><br/>
+                  <strong>Plain software Developer</strong><br />
+                  <strong>“DataEasy Tecnologia e Serviços”, Goiânia</strong><br />
+                  Worked in a corporate search engine written in Java. Acted in the design and implementation
+                  of RESTful APIs with Jersey 2, did some front-end programming on top of AngularJS and Angular2 and did back-end development, dealing with indexing technologies such as Apache Solr/Lucene.
+                  </p>
+
+                  <p><strong>May, 2013 - January, 2014</strong><br/>
+                  <strong>Trainee Developer</strong><br />
+                  <strong>“DataEasy Tecnologia e Serviços””, Goiânia</strong><br />
+                  Worked in a corporate search engine written in Java. Did back-end development dealing
+                  with indexing technologies such as Apache Solr/Lucene and did front-end development using the
+                  toolchain GWT (Google Web Toolkit).
+                  </p>
+
+                  <p><strong>March, 2012 – January, 2013</strong><br/>
+                  <strong>Trainee Developer</strong><br />
+                  <strong>“Banco do Brasil”, Goiânia</strong><br />
+                  Worked in a software project written in Java that utilized JSP (JavaServer Pages) on top of
+                  Struts 2, JDBC (Java Database Connectivity) and the PostgreSQL Database.</p>
               </dd>
               
               <dd className="clear"></dd>
               
               <dd>
-                  <h2>Doomsday Cult <span>Leader/Overlord - Baton Rogue, LA - 1926-2010</span></h2>
+                  <h2>Relevant Courses</h2>
                   <ul>
-                      <li>Inspired and won highest peasant death competition among servants</li>
-                      <li>Helped coordinate managers to grow cult following</li>
-                      <li>Provided untimely deaths to all who opposed</li>
+                      <li><strong>Architecture and Design of Java Projects</strong>, “Caelum Ensino e Inovação”, Brasilia, 2014</li>
+                      <li><strong>Java Web Development</strong>, “3way Networks”, Goiânia, 2011</li>
+                      <li><strong>Java Object Oriented</strong>, “3way Networks”, Goiânia, 2011</li>
                   </ul>
-                  
-                  <h2>The Watering Hole <span>Bartender/Server - Milwaukee, WI - 2009</span></h2>
-                  <ul>
-                      <li>Worked on grass-roots promotional campaigns</li>
-                      <li>Reduced theft and property damage percentages</li>
-                      <li>Janitorial work, Laundry</li>
-                  </ul> 
+                 
               </dd>
-              
-              <dd className="clear"></dd>
-              
-              <dd>World Domination, Deep Sea Diving, Murder Most Foul</dd>
-              
-              <dd className="clear"></dd>
-              
-              <dd>Available on request</dd>
-              
+
               <dd className="clear"></dd>
           </dl>
           
