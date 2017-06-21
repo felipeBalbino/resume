@@ -6,12 +6,11 @@
   border-left: 1px solid #999;
   border-right: 1px solid #999;
 }
-#objective { 
-  width: 500px; 
-  float: left; 
+.clear { 
+  clear: both; 
 }
-#objective p { 
-  font-family: Georgia, Serif; 
-  font-style: italic; 
-  color: #666; 
+div.clear { 
+  float: none; 
+  margin: 0;
+  height: 15px; 
 }

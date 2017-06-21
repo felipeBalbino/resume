@@ -1,0 +1,9 @@
+#objective { 
+  width: 500px; 
+  float: left; 
+}
+#objective p { 
+  font-family: Georgia, Serif; 
+  font-style: italic; 
+  color: #666; 
+}
