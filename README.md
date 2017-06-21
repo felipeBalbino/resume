@@ -1,4 +1,4 @@
-# resume
+# Résumé
 This is my HTML/CSS Résumé.
 It is rendered with React and it hosted under GitHub Pages.
 
