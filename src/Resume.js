@@ -11,25 +11,23 @@ import './Resume.css';
 class Resume extends Component {
   render() {
     return (
-        <div id="page-wrap">
-            <Contact data={data.contact}/>
+            <div className="row">
+              <Contact data={data.contact}/>
 
-            <Objective data={data.objective}/>
+	            <section className="col s12 m12 l8 section">
+                <div className="row">
+                  <Education data={data.education}/>
 
-            <div className="clear"></div>
+                  <Objective data={data.objective}/>
+              
+                  <Jobs data={data.jobs}/>
+              
+                  <Courses data={data.courses}/>
+                </div>
+              </section>
 
-            <Education data={data.education}/>
-            
-            <div className="clear"></div>
-            
-            <Jobs data={data.jobs}/>
-            
-            <div className="clear"></div>
-            
-            <Courses data={data.courses}/>
-
-            <div className="clear"></div>
-      </div>);
+            </div>
+        );
   }
 }
 
