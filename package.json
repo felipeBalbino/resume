@@ -30,6 +30,7 @@
   },
   "homepage": "https://cezar-carneiro.github.io/resume",
   "dependencies": {
+    "materialize-css": "^0.99.0",
     "react": "15.6.1",
     "react-dom": "15.6.1"
   },
