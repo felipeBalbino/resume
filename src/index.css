@@ -173,7 +173,7 @@ body {
 .sidebar .personal {
   margin-bottom: 20px;
 }
-.sidebar .personal h4 {
+.sidebar .personal h4,h3 {
   margin: 0px;
 }
 .sidebar .work h4 {

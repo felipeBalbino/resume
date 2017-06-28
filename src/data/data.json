@@ -1,8 +1,12 @@
 {
     "about": {
         "name": "Cezar Guimarães Carneiro",
-        "location": "Goiânia, Brazil",
+        "ocupation": "Software Developer",
         "description": "Software Developer with +4 of experience. Competent Full Stack Developer. Main focus on Android and Java back-end Development. Brazilian, fluent in English and Portuguese.",
+        "location": {
+            "place": "Goiânia, Brazil",
+            "link": "https://goo.gl/maps/TpHZKUcZdgy"
+        },
         "telephone": "",
         "email": {
             "label": "cezargcarneiro@gmail.com",
@@ -10,11 +14,12 @@
         },
         "linkedin": {
             "label": "/cezargcarneiro",
-            "address": "https://www.linkedin.com/in/cezargcarneiro"
+            "address": "http://lnked.in/cezar"
         },
         "github": {
             "label": "/cezar-carneiro",
-            "address": "https://github.com/cezar-carneiro"
+            "address": "https://github.com/cezar-carneiro",
+            "thisRepo": "https://github.com/cezar-carneiro/resume"
         }
     },
     "education": [

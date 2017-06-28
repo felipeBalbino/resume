@@ -8,22 +8,18 @@ class About extends Component {
 
                     <div className="row">                      
 
-                        <div className="heading">                                                                                
-
-                            <div className="title col s12 m12 l9 right  wow fadeIn animated" data-wow-delay="0.1s">   
-                                <h2>Al Rayhan</h2> 
-                                <span>UI &amp; UX Expert</span>  
-                            </div>                         
-                        </div>
-
                         <div className="col l12 m12 s12 sort-info sidebar-item">
                             <div className="row">                               
                                 <div className="col m12 s12 l3 icon"> 
                                    <i className="fa fa-user"></i>
-                                </div>                                
-                                <div className="col m12 s12 l9 info wow fadeIn a1 animated" data-wow-delay="0.1s" > 
+                                </div>                
+                                <div className="col m12 s12 l9 info wow fadeIn a1 animated"> 
                                     <div className="section-item-details">
-                                        <p>{this.props.data.description}</p>
+                                        <div className="personal">
+                                            <h3><a>{this.props.data.name} </a></h3>
+                                            <h4>{this.props.data.ocupation}</h4>
+                                            <span>{this.props.data.description}</span>
+                                        </div>
                                     </div>             
                                 </div>
                             </div>         
@@ -32,17 +28,13 @@ class About extends Component {
                         <div className="col l12 m12 s12  mobile sidebar-item">
                             <div className="row">                                
                                 <div className="col m12 s12 l3 icon">
-                                    <i className="fa fa-phone"></i>
+                                    <i className="fa fa-map-marker"></i>
                                 </div>                                
-                                <div className="col m12 s12 l9 info wow fadeIn a2 animated" data-wow-delay="0.2s" >
+                                <div className="col m12 s12 l9 info wow fadeIn a2 animated">
                                     <div className="section-item-details">
                                         <div className="personal">
-                                            <h4><a href="tel:555-555-5555">(111)-333-4444</a></h4>           
-                                            <span>mobile</span> 
-                                        </div>
-                                        <div className="work">
-                                            <h4><a href="tel:555-555-5555">(121)-323-3494</a></h4> 
-                                            <span>work</span> 
+                                            <h4><a href={this.props.data.location.link}>{this.props.data.location.place}</a></h4>           
+                                            <span>Available for relocation</span> 
                                         </div>
                                     </div>
                                 </div>
@@ -54,15 +46,11 @@ class About extends Component {
                                 <div className="col m12 s12 l3 icon">
                                     <i className="fa fa-envelope"></i> 
                                 </div>                                
-                                <div className="col m12 s12 l9 info wow fadeIn a3 animated" data-wow-delay="0.3s" >
+                                <div className="col m12 s12 l9 info wow fadeIn a3 animated" >
                                     <div className="section-item-details">
-                                        <div className="personal">                                    
-                                            <h4><a href="mailto:someone@example.com">mail@alrayhan.com</a></h4> 
-                                            <span>personal</span> 
-                                        </div>
-                                        <div className="work">                                 
-                                            <h4><a href="mailto:someone@example.com">ar@deviserweb.com</a></h4> 
-                                            <span>work</span> <br/>
+                                        <div className="personal">                                 
+                                            <h4><a href={this.props.data.email.address}>{this.props.data.email.label}</a></h4> 
+                                            <span>personal</span> <br/>
                                         </div>
                                     </div>
                                 </div> 
@@ -72,14 +60,30 @@ class About extends Component {
                         <div className="col l12 m12 s12  address sidebar-item ">
                             <div className="row">                                
                                 <div className="col l3 m12  s12 icon">
-                                    <i className="fa fa-home"></i> 
+                                    <i className="fa fa-linkedin"></i> 
                                 </div>                                
-                                <div className="col m12 s12 l9 info wow fadeIn a4 animated" data-wow-delay="0.4s" >
+                                <div className="col m12 s12 l9 info wow fadeIn a4 animated">
                                     <div className="section-item-details">
-                                        <div className="address-details"> 
-                                            <h4>24 Golden Tower <span>(2nd floor)</span><br/>
-                                            Amborkhana, Sylhet.<br/>
-                                            <span>SYL-3RF87W</span></h4> 
+                                        <div className="personal"> 
+                                            <h4><a href={this.props.data.linkedin.address}>{this.props.data.linkedin.label}</a></h4> 
+                                            <span><a href={this.props.data.linkedin.address}>{this.props.data.linkedin.address}</a></span> <br/>
+                                        </div>                         
+                                    </div>
+                                </div>
+                            </div>            
+                        </div>
+
+                        <div className="col l12 m12 s12  address sidebar-item ">
+                            <div className="row">                                
+                                <div className="col l3 m12  s12 icon">
+                                    <i className="fa fa-github"></i> 
+                                </div>                                
+                                <div className="col m12 s12 l9 info wow fadeIn a4 animated">
+                                    <div className="section-item-details">
+                                        <div className="personal"> 
+                                            <h4><a href={this.props.data.github.address}>{this.props.data.github.label}</a></h4> 
+                                            <span><a href={this.props.data.github.address}>{this.props.data.github.address}</a></span> <br/>
+                                            <span><a href={this.props.data.github.thisRepo} style={{fontSize: '11px'}}>(repo of this page)</a></span> <br/>
                                         </div>                         
                                     </div>
                                 </div>
