@@ -5,12 +5,14 @@
         "description": "Software Developer with +4 of experience. Competent Full Stack Developer. Main focus on Android and Java back-end Development. Brazilian, fluent in English and Portuguese.",
         "location": {
             "place": "Goiânia, Brazil",
-            "link": "https://goo.gl/maps/TpHZKUcZdgy"
+            "link": "https://goo.gl/maps/TpHZKUcZdgy",
+            "relocationAvailability": "Available for relocation"
         },
         "telephone": "",
         "email": {
             "label": "cezargcarneiro@gmail.com",
-            "address": "mailto:cezargcarneiro@gmail.com"
+            "address": "mailto:cezargcarneiro@gmail.com",
+            "type": "personal"
         },
         "linkedin": {
             "label": "/cezargcarneiro",

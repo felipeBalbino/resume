@@ -176,15 +176,6 @@ body {
 .sidebar .personal h4,h3 {
   margin: 0px;
 }
-.sidebar .work h4 {
-  margin-bottom: 0px;
-}
-.sidebar .address-details h4 {
-  margin-top: 0px;
-}
-.sidebar .address-details h4 span {
-  font-size: 10pt;
-}
 .sidebar .skill-line {
   padding-right: 30px;
   padding-left: 0px;
