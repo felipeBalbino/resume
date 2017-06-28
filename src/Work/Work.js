@@ -1,0 +1,29 @@
+import React, { Component } from 'react';
+import './Work.css';
+
+class Work extends Component {
+  render() {
+    const jobs = this.props.data.map((entry, i) => (
+        <div key={i} className="custom-content-wrapper wow fadeIn a2 animated">
+            <h3>{entry.title}</h3>
+            <h3><span>{entry.company}, {entry.location}</span></h3>
+            <span>{entry.period}</span>
+            <p>{entry.description}</p>
+        </div>
+    ));
+
+    return (
+        <div className="section-wrapper z-depth-1">                            
+            <div className="section-icon col s12 m12 l2">
+                <i className="fa fa-suitcase"></i>
+            </div>
+            <div className="custom-content col s12 m12 l10 wow fadeIn a1 animated">
+                <h2>Work Experience</h2>
+                {jobs}
+            </div>                            
+        </div>
+    );
+  }
+}
+
+export default Work;

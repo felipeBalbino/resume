@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "Check out my React rendered Résumé",
+  "description": "Check out my Material Design Résumé developed with React",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -21,7 +21,10 @@
     "html",
     "css",
     "javascript",
-    "react"
+    "react",
+    "material design",
+    "materialize",
+    "font-awesome"
   ],
   "author": "Cezar Carneiro",
   "license": "MIT",
@@ -30,8 +33,6 @@
   },
   "homepage": "https://cezar-carneiro.github.io/resume",
   "dependencies": {
-    "font-awesome": "^4.7.0",
-    "materialize-css": "^0.99.0",
     "react": "15.6.1",
     "react-dom": "15.6.1"
   },

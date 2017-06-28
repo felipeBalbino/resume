@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './Contact.css';
+import './About.css';
 
-class Contact extends Component {
+class About extends Component {
   render() {
     return (
                 <aside className="col l4 m12 s12 sidebar z-depth-1" id="sidebar">
@@ -23,8 +23,7 @@ class Contact extends Component {
                                 </div>                                
                                 <div className="col m12 s12 l9 info wow fadeIn a1 animated" data-wow-delay="0.1s" > 
                                     <div className="section-item-details">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                        dolore magna aliqua . Ld do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+                                        <p>{this.props.data.description}</p>
                                     </div>             
                                 </div>
                             </div>         
@@ -94,4 +93,4 @@ class Contact extends Component {
   }
 }
 
-export default Contact;
+export default About;
