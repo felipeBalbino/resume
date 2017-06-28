@@ -1,8 +1,8 @@
 {
     "about": {
         "name": "Cezar Guimarães Carneiro",
-        "ocupation": "Software Developer",
-        "description": "Software Developer with +4 of experience. Competent Full Stack Developer. Main focus on Android and Java back-end Development. Brazilian, fluent in English and Portuguese.",
+        "ocupation": "Software Engineer",
+        "description": "Competent Full Stack Developer with 5+ years of experience with a true innovative atitude. Has experience in building highly scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
         "location": {
             "place": "Goiânia, Brazil",
             "link": "https://goo.gl/maps/TpHZKUcZdgy",
@@ -36,49 +36,56 @@
     "work": [
         {
             "period": "November, 2016 - Today",
-            "title": "Plain Android Developer",
+            "title": "Android Developer",
             "company": "Máxima Sistemas",
             "location": "Goiânia",
-            "description": "Maintain and evolve mature Android Apps, designs new functionalities and implements them. Optimize performance, improves usability and applies new technologies and techniques to the apps."
+            "description": "I maintain and evolve Android apps that involve sales and billing with highly complex business logic. I design new functionalities, optimize performance and improve the app's usability. I am helping to bring the \"Continuous Integration\" practice and testing tools and techniques to the teams. As a result, we are making better products by gaining software maintainability and trustability.",
+            "tags": ["Android", "Java", "Firebase", "REST", "JSON", "Gradle", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Git", "Continuous Integration", "DevOps"]
         },
         {
             "period": "January, 2014 - November, 2016",
-            "title": "Plain software Developer",
+            "title": "Software Developer",
             "company": "DataEasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "Worked in a corporate search engine written in Java. Acted in the design and implementation of RESTful APIs with Jersey 2, did some front-end programming on top of AngularJS and Angular2 and did back-end development, dealing with indexing technologies such as Apache Solr/Lucene."
+            "description": "I worked mainly in a Corporate Search Engine written in Java on top of Apache Solr/Lucene that processed huge amounts of data by indexing all sorts of documents and databases. To maintain it, my team and I were always applying patterns and technologies to achieve high scalability and availability. Still at Dataeasy, I acted in the design and implementation of RESTful APIs with Jersey 2, did front-end development with AngularJS and Angular2.",
+            "tags": ["Full-Text Search", "Java", "JavaScript", "TypeScript", "Lucene", "Solr", "Jersey2", "Angular", "Angular2", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "GitHub", "Linux", "Continuous Integration", "DevOps"]
         },
         {
             "period": "May, 2013 - January, 2014",
             "title": "Trainee Developer",
             "company": "DataEasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "Worked in a corporate search engine written in Java. Did back-end development dealing with indexing technologies such as Apache Solr/Lucene and did front-end development using the toolchain GWT (Google Web Toolkit)."
+            "description": "I worked in a corporate search engine written in Java. I did back-end development dealing with indexing technologies such as Apache Solr/Lucene and did front-end development using the toolchain GWT (Google Web Toolkit).",
+            "tags": [""]
         },
         {
             "period": "March, 2012 - January, 2013",
             "title": "Trainee Developer",
             "company": "Bank of Brazil (Banco do Brasil)",
             "location": "Goiânia",
-            "description": "Worked in a software project written in Java that utilized JSP (JavaServer Pages) on top of Struts 2, JDBC (Java Database Connectivity) and the PostgreSQL Database."
+            "description": "Worked in a software project written in Java that utilized JSP (JavaServer Pages) on top of Struts 2 and the PostgreSQL Database. Besides the development of the application, I became capable of handling all the infrastructure of the application, managing configuration and resources, doing deploys, backups, etc. The application was available to the entire state and had users from all of the bank's agencies.",
+            "tags": ["Java", "Web", "JSP", "HTML", "CSS", "Struts2", "PostgreSQL", "Linux"]
         }
     ],
     "courses": [
         {
             "name": "Architecture and Design of Java Projects",
             "company": "Caelum Ensino e Inovação",
+            "type": "Presential",
             "location": "Brasilia",
             "date": "2014"
         },
         {
             "name": "Web Development with Java",
             "company": "3way Networks",
+            "type": "Presential",
             "location": "Goiânia",
             "date": "2011"
         },
         {
             "name": "Java Object Orientation",
             "company": "3way Networks",
+            "type": "Presential",
             "location": "Goiânia",
             "date": "2011"
         }
