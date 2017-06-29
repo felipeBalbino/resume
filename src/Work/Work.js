@@ -3,12 +3,21 @@ import './Work.css';
 
 class Work extends Component {
   render() {
+    const tags = (jobEntry) => {
+        return (
+            jobEntry.tags.map((entry, i) => (
+                <div className="chip" key={i}>{entry}</div>
+            ))
+        );
+    }
+
     const jobs = this.props.data.map((entry, i) => (
         <div key={i} className="custom-content-wrapper wow fadeIn a2 animated">
             <h3>{entry.title}</h3>
             <h3><span>{entry.company}, {entry.location}</span></h3>
             <span>{entry.period}</span>
             <p>{entry.description}</p>
+            {tags(entry)}
         </div>
     ));
 
