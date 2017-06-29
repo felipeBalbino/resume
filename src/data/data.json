@@ -2,7 +2,7 @@
     "about": {
         "name": "Cezar Guimarães Carneiro",
         "ocupation": "Software Engineer",
-        "description": "Competent Full Stack Developer with 5+ years of experience with a true innovative atitude. Has experience in building highly scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
+        "description": "Competent Full Stack Developer with 5+ years of experience with a true innovative atitude. Has experience in building scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
         "location": {
             "place": "Goiânia, Brazil",
             "link": "https://goo.gl/maps/TpHZKUcZdgy",
@@ -45,10 +45,10 @@
         {
             "period": "January, 2014 - November, 2016",
             "title": "Software Developer",
-            "company": "DataEasy Tecnologia e Serviços",
+            "company": "Dataeasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "I worked mainly in a Corporate Search Engine written in Java on top of Apache Solr/Lucene that processed huge amounts of data by indexing all sorts of documents and databases. To maintain it, my team and I were always applying patterns and technologies to achieve high scalability and availability. Still at Dataeasy, I acted in the design and implementation of RESTful APIs with Jersey 2, did front-end development with AngularJS and Angular2.",
-            "tags": ["Full-Text Search", "Java", "JavaScript", "TypeScript", "Lucene", "Solr", "Jersey2", "Angular", "Angular2", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "GitHub", "Linux", "Continuous Integration", "DevOps"]
+            "description": "I worked mainly in a Corporate Search Engine written in Java on top of Apache Solr/Lucene that processed huge amounts of data when indexing all sorts of documents and databases. Its main purpose was to provide Full-Text Search capability - where one could search terms in hundreds of thousands of documents in a fraction of a second. \nTo maintain and evolve it, I had the honor to work with a very openminded team that was always applying new patterns and technologies to achieve high scalability and availability, as well as creating top of the line functionalities.\nAlongside with core development and maintenance, I acted in the design and implementation of RESTful HTTP APIs with Jersey 2 to create developer access to our Search Engine.\nStill at Dataeasy, I did front-end development with AngularJS and later with Angular2 creating a much better user experience of the product and, for a brief period of time, I led and concluded the development of an Android app related to one of the company's products.",
+            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "TypeScript", "Jersey2", "Angular", "Angular2", "Android", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "GitHub", "Linux", "Continuous Integration", "DevOps"]
         },
         {
             "period": "May, 2013 - January, 2014",
@@ -56,7 +56,7 @@
             "company": "DataEasy Tecnologia e Serviços",
             "location": "Goiânia",
             "description": "I worked in a corporate search engine written in Java. I did back-end development dealing with indexing technologies such as Apache Solr/Lucene and did front-end development using the toolchain GWT (Google Web Toolkit).",
-            "tags": [""]
+            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript"]
         },
         {
             "period": "March, 2012 - January, 2013",
