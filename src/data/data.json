@@ -2,7 +2,7 @@
     "about": {
         "name": "Cezar Guimarães Carneiro",
         "ocupation": "Software Engineer",
-        "description": "Competent Full Stack Developer with 5+ years of experience with a true innovative atitude. Has experience in building scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
+        "description": "Competent Full Stack Developer with a true innovative atitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
         "location": {
             "place": "Goiânia, Brazil",
             "link": "https://goo.gl/maps/TpHZKUcZdgy",
@@ -39,8 +39,8 @@
             "title": "Android Developer",
             "company": "Máxima Sistemas",
             "location": "Goiânia",
-            "description": "I maintain and evolve Android apps that involve sales and billing with highly complex business logic. I design new functionalities, optimize performance and improve the app's usability. I am helping to bring the \"Continuous Integration\" practice and testing tools and techniques to the teams. As a result, we are making better products by gaining software maintainability and trustability.",
-            "tags": ["Android", "Java", "Firebase", "REST", "JSON", "Gradle", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Git", "Continuous Integration", "DevOps"]
+            "description": "I maintain and evolve Android apps with highly complex business logic that deal with sales and billing. My main function is to design new functionalities, optimize performance and improve the apps' usability. Part of my job is to refactor old code and make integration with other systems.\nI am, also, helping in bringing the \"Continuous Integration\" practice and a testing culture to the teams. That involves introducing new tools, tecnologies and techniques to our work routine. As a result, we are gaining software maintainability and trustability, making much better products and feeling much more confident about our deploys. Here at Máxima, I learned how to care to customer satisfaction.",
+            "tags": ["Android", "Java", "Firebase", "REST", "JSON", "SQLite", "Gradle", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Git", "Continuous Integration", "DevOps"]
         },
         {
             "period": "January, 2014 - November, 2016",
@@ -55,16 +55,16 @@
             "title": "Trainee Developer",
             "company": "DataEasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "I worked in a corporate search engine written in Java. I did back-end development dealing with indexing technologies such as Apache Solr/Lucene and did front-end development using the toolchain GWT (Google Web Toolkit).",
-            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript"]
+            "description": "That is when I started working at Dataeasy, with their corporate search engine. I started there doing back-end development in the core of the engine dealing with indexing technologies and, at the same time, doing front-end development mostly using the toolchain GWT (Google Web Toolkit). While as a Trainee, I had the oportunity to start developing new front-end components in JavaScript for the product.\nSoon enough, after 8 months, I became a Plain Software Developer.",
+            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "GWT", "Shiro", "MongoDB", "Linux"]
         },
         {
             "period": "March, 2012 - January, 2013",
             "title": "Trainee Developer",
             "company": "Bank of Brazil (Banco do Brasil)",
             "location": "Goiânia",
-            "description": "Worked in a software project written in Java that utilized JSP (JavaServer Pages) on top of Struts 2 and the PostgreSQL Database. Besides the development of the application, I became capable of handling all the infrastructure of the application, managing configuration and resources, doing deploys, backups, etc. The application was available to the entire state and had users from all of the bank's agencies.",
-            "tags": ["Java", "Web", "JSP", "HTML", "CSS", "Struts2", "PostgreSQL", "Linux"]
+            "description": "Worked in a software project written in Java that utilized JSP (JavaServer Pages) on top of Struts 2 and the PostgreSQL Database. Besides the development of the application, I became capable of handling all the infrastructure behind the application, managing configuration and resources, doing deploys, backups, etc. The application was available to the entire state and had users from all of the bank's agencies.",
+            "tags": ["Java", "Web", "JSP", "HTML", "CSS", "Struts2", "PostgreSQL", "Apache Tomcat", "Apache Web Server", "Linux"]
         }
     ],
     "courses": [

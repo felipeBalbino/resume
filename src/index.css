@@ -254,7 +254,6 @@ body {
 }
 .custom-content-wrapper p {
   margin-top: 0px;
-  margin-bottom: 25px;
 }
 /* Smartphones (landscape) */
 @media only screen and (min-width: 321px) and (max-device-width: 568px) {

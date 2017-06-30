@@ -11,12 +11,20 @@ class Work extends Component {
         );
     }
 
+    const paragraphs = (jobDescription) => {
+        return (
+            jobDescription.split('\n').map((entry, i) => (
+                <p key={i}>{entry}</p>
+            ))
+        );   
+    }
+
     const jobs = this.props.data.map((entry, i) => (
         <div key={i} className="custom-content-wrapper wow fadeIn a2 animated">
             <h3>{entry.title}</h3>
             <h3><span>{entry.company}, {entry.location}</span></h3>
             <span>{entry.period}</span>
-            <p>{entry.description}</p>
+            {paragraphs(entry.description)}
             {tags(entry)}
         </div>
     ));
