@@ -2,7 +2,7 @@
     "about": {
         "name": "Cezar Guimarães Carneiro",
         "ocupation": "Software Engineer",
-        "description": "Competent Full Stack Developer with a true innovative atitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
+        "description": "Competent Full Stack Developer with a true innovative attitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
         "location": {
             "place": "Goiânia, Brazil",
             "link": "https://goo.gl/maps/TpHZKUcZdgy",
@@ -39,7 +39,7 @@
             "title": "Android Developer",
             "company": "Máxima Sistemas",
             "location": "Goiânia",
-            "description": "I maintain and evolve Android apps with highly complex business logic that deal with sales and billing. My main function is to design new functionalities, optimize performance and improve the apps' usability. Part of my job is to refactor old code and make integration with other systems.\nI am, also, helping in bringing the \"Continuous Integration\" practice and a testing culture to the teams. That involves introducing new tools, tecnologies and techniques to our work routine. As a result, we are gaining software maintainability and trustability, making much better products and feeling much more confident about our deploys. Here at Máxima, I learned how to care to customer satisfaction.",
+            "description": "I maintain and evolve Android apps with highly complex business logic that deal with sales and billing. My main function is to design new functionalities, optimize performance and improve the apps' usability. Part of my job is to refactor old code and make integration with other systems.\nI am, also, helping in bringing the \"Continuous Integration\" practice and a testing culture to the teams. That involves introducing new tools, technologies and techniques to our work routine. As a result, we are gaining software maintainability and trustability, making much better products and feeling much more confident about our deploys. Here at Máxima, I learned how to care to customer satisfaction.",
             "tags": ["Android", "Java", "Firebase", "REST", "JSON", "SQLite", "Gradle", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Git", "Continuous Integration", "DevOps"]
         },
         {
@@ -47,7 +47,7 @@
             "title": "Software Developer",
             "company": "Dataeasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "I worked mainly in a Corporate Search Engine written in Java on top of Apache Solr/Lucene that processed huge amounts of data when indexing all sorts of documents and databases. Its main purpose was to provide Full-Text Search capability - where one could search terms in hundreds of thousands of documents in a fraction of a second. \nTo maintain and evolve it, I had the honor to work with a very openminded team that was always applying new patterns and technologies to achieve high scalability and availability, as well as creating top of the line functionalities.\nAlongside with core development and maintenance, I acted in the design and implementation of RESTful HTTP APIs with Jersey 2 to create developer access to our Search Engine.\nStill at Dataeasy, I did front-end development with AngularJS and later with Angular2 creating a much better user experience of the product and, for a brief period of time, I led and concluded the development of an Android app related to one of the company's products.",
+            "description": "I worked mainly in a Corporate Search Engine written in Java on top of Apache Solr/Lucene that processed huge amounts of data when indexing all sorts of documents and databases. Its main purpose was to provide Full-Text Search capability - where one could search terms in hundreds of thousands of documents in a fraction of a second. \nTo maintain and evolve it, I had the honor to work with a very open-minded team that was always applying new patterns and technologies to achieve high scalability and availability, as well as creating top of the line functionalities.\nAlongside with core development and maintenance, I acted in the design and implementation of RESTful HTTP APIs with Jersey 2 to create developer access to our Search Engine.\nStill at Dataeasy, I did front-end development with AngularJS and later with Angular2 creating a much better user experience of the product and, for a brief period of time, I led and concluded the development of an Android app related to one of the company's products.",
             "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "TypeScript", "Jersey2", "Angular", "Angular2", "Android", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "GitHub", "Linux", "Continuous Integration", "DevOps"]
         },
         {
@@ -55,7 +55,7 @@
             "title": "Trainee Developer",
             "company": "DataEasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "That is when I started working at Dataeasy, with their corporate search engine. I started there doing back-end development in the core of the engine dealing with indexing technologies and, at the same time, doing front-end development mostly using the toolchain GWT (Google Web Toolkit). While as a Trainee, I had the oportunity to start developing new front-end components in JavaScript for the product.\nSoon enough, after 8 months, I became a Plain Software Developer.",
+            "description": "That is when I started working at Dataeasy, with their corporate search engine. I started doing back-end development in the core of the engine dealing with indexing technologies and, at the same time, doing front-end development mostly using the toolchain GWT (Google Web Toolkit). While as a Trainee, I had the opportunity to start developing new front-end components in JavaScript for the product.\nSoon enough, after 8 months, I became a Plain Software Developer.",
             "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "GWT", "Shiro", "MongoDB", "Linux"]
         },
         {
