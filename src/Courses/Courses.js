@@ -12,9 +12,11 @@ class Courses extends Component {
             <div className="section-icon col s12 m12 l2">
                 <i className="fa fa-book"></i>
             </div>
-            <div className="custom-content col s12 m12 l10 wow fadeIn a1 animated">
+            <div className="custom-content col s12 m12 l10 a1">
                 <h2>Relevant Courses </h2>
-                {courses}
+                <div className="custom-content-wrapper">
+                    {courses}
+                </div>
             </div>
         </div>
     );

@@ -20,7 +20,7 @@ class Work extends Component {
     }
 
     const jobs = this.props.data.map((entry, i) => (
-        <div key={i} className="custom-content-wrapper wow fadeIn a2 animated">
+        <div key={i} className="custom-content-wrapper">
             <h3>{entry.title}</h3>
             <h3><span>{entry.company}, {entry.location}</span></h3>
             <span>{entry.period}</span>
@@ -34,7 +34,7 @@ class Work extends Component {
             <div className="section-icon col s12 m12 l2">
                 <i className="fa fa-suitcase"></i>
             </div>
-            <div className="custom-content col s12 m12 l10 wow fadeIn a1 animated">
+            <div className="custom-content col s12 m12 l10">
                 <h2>Work Experience</h2>
                 {jobs}
             </div>                            

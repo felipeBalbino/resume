@@ -4,7 +4,7 @@ import './Education.css';
 class Education extends Component {
   render() {
     const degrees = this.props.data.map((entry, i) => (
-        <div key={i} className="custom-content-wrapper wow fadeIn a2 animated">
+        <div key={i} className="custom-content-wrapper">
             <h3>{entry.name}, {entry.level}</h3>
             <h3><span>{entry.institution}</span></h3>
             <span>{entry.date} </span>
@@ -17,7 +17,7 @@ class Education extends Component {
             <div className="section-icon col s12 m12 l2">
                 <i className="fa fa-graduation-cap"></i>
             </div>
-            <div className="custom-content col s12 m12 l10 wow fadeIn a1 animated">
+            <div className="custom-content col s12 m12 l10">
                 <h2>Education </h2>
                 {degrees}
             </div>
