@@ -6,8 +6,7 @@ class About extends Component {
     return (
         <aside className="col l4 m12 s12 sidebar z-depth-1" id="sidebar">
 
-            <div className="row">                      
-
+            <div className="row">
                 <div className="col l12 m12 s12 sort-info sidebar-item">
                     <div className="row">                               
                         <div className="col m12 s12 l3 icon"> 
@@ -16,7 +15,7 @@ class About extends Component {
                         <div className="col m12 s12 l9 info a1 "> 
                             <div className="section-item-details">
                                 <div className="personal">
-                                    <h3><a>{this.props.data.name} </a></h3>
+                                    <h1><a>{this.props.data.name} </a></h1>
                                     <h4>{this.props.data.ocupation}</h4>
                                     <span>{this.props.data.description}</span>
                                 </div>

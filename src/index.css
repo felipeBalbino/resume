@@ -47,10 +47,15 @@ a {
   animation-name: fadeIn;
   -webkit-animation-name: fadeIn;
 }
+h1,
 h2,
 h3 {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
+}
+h1{
+  font-size: 14pt;
+  line-height: 24pt;
 }
 h2 {
   font-size: 22pt;
@@ -119,7 +124,7 @@ body {
   margin-top: 20px;
   padding: 0px 6px;
 }
-.sidebar .heading nav .side-nav h3 {
+.sidebar .heading nav .side-nav h1 {
   color: #5da4d9;
   padding: 0 15px;
 }
@@ -173,7 +178,7 @@ body {
 .sidebar .personal {
   margin-bottom: 20px;
 }
-.sidebar .personal h4,h3 {
+.sidebar .personal h4,h3,h1 {
   margin: 0px;
 }
 .sidebar .skill-line {
