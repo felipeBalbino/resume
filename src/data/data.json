@@ -27,44 +27,44 @@
     "education": [
         {
             "name": "Computer Science",
-            "level": "Bachelor",
-            "date": "August, 2014",
+            "level": "Bachelor of Science (B.S.)",
+            "date": "February 2009 – August 2014",
             "institution": "Pontifical Catholic University",
-            "location": "Brazil"
+            "location": "Goiânia, Brazil"
         }
     ],
     "work": [
         {
-            "period": "November, 2016 - Today",
+            "period": "November, 2016 - Present",
             "title": "Android Developer",
             "company": "Máxima Sistemas",
             "location": "Goiânia",
-            "description": "I maintain and evolve Android apps with highly complex business logic that deal with sales and billing. My role is to design new functionalities, optimize performance and improve the apps' usability. Part of my job is to refactor old code and make integration with other systems.\nI am, also, helping in bringing the \"Continuous Integration\" practice and a testing culture to our teams. That involves introducing new tools, technologies and techniques to our work routine. As a result, we are gaining software maintainability and trustability, making much better products and feeling much more confident about our deploys. Here at Máxima, I learned how to care to customer satisfaction.",
-            "tags": ["Android", "Java", "Firebase", "REST", "JSON", "SQLite", "Gradle", "TDD", "Unit Test", "Integration Test", "System Test", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Git", "Continuous Integration", "DevOps"]
+            "description": "I develop Android applications with highly complex business logic to support sales and billing. My role is to design new functionalities, optimize performance and improve the overall usability – oftentimes refactoring existing code and enabling integration with other systems.\nAditionaly, I manage the \"Continuous Integration\" practice and encourage a testing culture across our teams through the introduction of new tools, technologies and techniques. As a result, we have improved software maintainability, leading to better products, faster deployment process and overall customer satisfaction.",
+            "tags": ["Android", "Java", "Firebase", "REST", "JSON", "SQLite", "Gradle", "TDD", "Unit Test", "Integration Test", "System Test", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Nexus", "Git", "Continuous Integration", "DevOps"]
         },
         {
             "period": "January, 2014 - November, 2016",
             "title": "Software Developer",
             "company": "Dataeasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "I worked mainly in a Corporate Search Engine written in Java on top of Apache Solr/Lucene that processed huge amounts of data when indexing all sorts of documents and databases. Its main purpose was to provide Full-Text Search capability - where one could search terms in hundreds of thousands of documents in a fraction of a second. \nTo maintain and evolve it, I had the honor to work with a very open-minded team that was always applying new patterns and technologies to achieve high scalability and availability, as well as creating top of the line functionalities.\nAlongside with core development and maintenance, I acted in the design and implementation of RESTful HTTP APIs with Jersey 2 to create developer access to our Search Engine.\nStill at Dataeasy, I did front-end development with AngularJS and later with Angular2 creating a much better user experience of the product. And, for a brief period of time, I led and concluded the development of an Android app related to one of the company's products.",
-            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "TypeScript", "Jersey2", "Angular", "Angular2", "Android", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "GitHub", "Linux", "Continuous Integration", "DevOps"]
+            "description": "I supported the development of a corporate search engine utilizing Java and Apache Solr/Lucene. This search engine processes large amounts of data through pages, documents and database crawling and indexing. Its main purpose is to provide full-text search capability – enabling users to search multiple terms in hundreds of thousands of documents in a fraction of a second. \nI had the honor of working with an open-minded team that applied new patterns and technologies to consistently achieve high-scalability, availability and top-of-the-line functionalities.\nIn addition to supporting core development, I supported the design and implementation of RESTful APIs with Jersey 2 to create developer access the search engine.\nAdditionally, I led front-end development with AngularJS and later with Angular2 driving the product to an improved user experience. Finally, for a brief period of time, I led and concluded the development of an Android application.",
+            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "TypeScript", "Jersey2", "Angular", "Angular2", "Android", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "Nexus", "GitHub", "Linux", "Continuous Integration", "DevOps"]
         },
         {
             "period": "May, 2013 - January, 2014",
             "title": "Trainee Developer",
             "company": "DataEasy Tecnologia e Serviços",
             "location": "Goiânia",
-            "description": "That is when I started working at Dataeasy, with their corporate search engine. I started doing back-end development in the core of the engine dealing with indexing technologies and, at the same time, doing front-end development mostly using the toolchain GWT (Google Web Toolkit). While as a Trainee, I had the opportunity to start developing new front-end components in JavaScript for the product.\nSoon enough, after 8 months, I became a Plain Software Developer.",
-            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "GWT", "Shiro", "MongoDB", "Linux"]
+            "description": "Back-end development in the core of the engine with Java and indexing technologies.\nFront-end development using GWT (Google Web Toolkit).\nDevelopment of new front-end product components using JavaScript.\nPromoted to Plain Software Developer after completion of trainee program.",
+            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "JSP", "GWT", "Shiro", "MongoDB", "Linux"]
         },
         {
             "period": "March, 2012 - January, 2013",
             "title": "Trainee Developer",
             "company": "Bank of Brazil (Banco do Brasil)",
             "location": "Goiânia",
-            "description": "Worked in a software project written in Java that utilized JSP (JavaServer Pages) on top of Struts 2 and PostgreSQL Database. Besides the development of the application, I became capable of handling all the infrastructure behind it, managing configuration and resources, doing deploys, backups, etc. The application was available to the entire state and had users from all of the bank's agencies.",
-            "tags": ["Java", "Web", "JSP", "HTML", "CSS", "Struts2", "PostgreSQL", "Apache Tomcat", "Apache Web Server", "Linux"]
+            "description": "Developed an application available to branches of the bank across the state.\nUtilized JSP (JavaServer Pages) and Struts 2 and PostgreSQL Database.\nEnabled integration with WordPress doing small PHP development.\nManaged back-end infrastructure configuration and resources, deployments, backup processes, etc.",
+            "tags": ["Java", "PHP", "Web", "JSP", "HTML", "CSS", "Struts2", "PostgreSQL", "Memcached", "Apache Tomcat", "Apache Web Server", "Linux"]
         }
     ],
     "courses": [

@@ -5,7 +5,7 @@ class Education extends Component {
   render() {
     const degrees = this.props.data.map((entry, i) => (
         <div key={i} className="custom-content-wrapper">
-            <h3>{entry.name}, {entry.level}</h3>
+            <h3>{entry.level}, {entry.name}</h3>
             <h3><span>{entry.institution}</span></h3>
             <span>{entry.date} </span>
             <p>{entry.location} </p>
