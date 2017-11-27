@@ -4,7 +4,7 @@
         "ocupation": "Software Engineer",
         "description": "Experienced Full Stack Developer with a true innovative attitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
         "location": {
-            "place": "Goiânia, Brazil",
+            "place": "Dublin, Ireland",
             "link": "https://goo.gl/maps/TpHZKUcZdgy",
             "relocationAvailability": "Available for relocation"
         },
@@ -35,11 +35,11 @@
     ],
     "work": [
         {
-            "period": "November, 2016 - Present",
+            "period": "November, 2016 - October, 2017",
             "title": "Android Developer",
             "company": "Máxima Sistemas",
             "location": "Goiânia",
-            "description": "I develop Android applications with highly complex business logic to support sales and billing. My role is to design new functionalities, optimize performance and improve the overall usability – oftentimes refactoring existing code and enabling integration with other systems.\nAditionaly, I manage the \"Continuous Integration\" practice and encourage a testing culture across our teams through the introduction of new tools, technologies and techniques. As a result, we have improved software maintainability, leading to better products, faster deployment process and overall customer satisfaction.",
+            "description": "I developed Android applications with highly complex business logic to support sales and billing. My role was to design new functionalities, optimize performance and improve the overall usability – oftentimes refactoring existing code and enabling integration with other systems.\nAditionaly, I managed the \"Continuous Integration\" practice and encouraged a testing culture across the teams through the introduction of new tools, technologies and techniques. As a result, I have improved software maintainability, leading to better products, faster deployment process and overall customer satisfaction.",
             "tags": ["Android", "Java", "Firebase", "REST", "JSON", "SQLite", "Gradle", "TDD", "Unit Test", "Integration Test", "System Test", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Nexus", "Git", "Continuous Integration", "DevOps"]
         },
         {
