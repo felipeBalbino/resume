@@ -1,6 +1,6 @@
-# Résumé
+# Resume
 ## About
-This is my responsive Material Design-like Résumé. To create it and build its components, I used [React](https://facebook.github.io/react/).
+This is my responsive Material Design-like Resume. To create it and build its components, I used [React](https://facebook.github.io/react/).
 I am hosting it under [GitHub Pages](https://pages.github.com/).
 
 You can see it LIVE here: [cezar-carneiro.github.io/resume](https://cezar-carneiro.github.io/resume/).
