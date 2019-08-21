@@ -1,7 +1,7 @@
 # Resume
 ## About
 This is my responsive Material Design-like Resume. To create it and build its components, I used [React](https://facebook.github.io/react/).
-I am hosting it under [Amazon S3](https://pages.github.com/).
+I am hosting it under [Amazon S3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html#website-hosting-custom-domain-walkthrough-domain-registry).
 
 You can see it LIVE here: [fjbalbino.com](http://fjbalbino.com).
 
