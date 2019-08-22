@@ -1,6 +1,6 @@
 {
     "about": {
-        "name": "Cezar Guimarães Carneiro",
+        "name": "Felipe J. Balbino",
         "ocupation": "Software Engineer",
         "description": "Experienced Full Stack Developer with a true innovative attitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
         "location": {
@@ -10,18 +10,18 @@
         },
         "telephone": "",
         "email": {
-            "label": "cezargcarneiro@gmail.com",
-            "address": "mailto:cezargcarneiro@gmail.com",
+            "label": "fjbalbino@gmail.com",
+            "address": "mailto:fjbalbino@gmail.com",
             "type": "personal"
         },
         "linkedin": {
-            "label": "/cezargcarneiro",
-            "address": "https://linkedin.com/in/cezargcarneiro"
+            "label": "/fjbalbino",
+            "address": "https://linkedin.com/in/fjbalbino"
         },
         "github": {
-            "label": "/cezar-carneiro",
-            "address": "https://github.com/cezar-carneiro",
-            "thisRepo": "https://github.com/cezar-carneiro/resume"
+            "label": "/felipeBalbino",
+            "address": "https://github.com/felipeBalbino",
+            "thisRepo": "https://github.com/felipeBalbino/resume"
         }
     },
     "education": [
