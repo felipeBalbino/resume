@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cezar-carneiro/resume.git"
+    "url": "git+https://github.com/felipeBalbino/resume.git"
   },
   "keywords": [
     "cv",
@@ -26,12 +26,12 @@
     "materialize",
     "font-awesome"
   ],
-  "author": "Cezar Carneiro",
+  "author": "Felipe José Balbino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cezar-carneiro/resume/issues"
+    "url": "http://fjbalbino.com/resume/issues"
   },
-  "homepage": "https://cezar-carneiro.github.io/resume",
+  "homepage": "http://fjbalbino.com/resume",
   "dependencies": {
     "react": "15.6.1",
     "react-dom": "15.6.1"
