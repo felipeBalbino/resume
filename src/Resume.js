@@ -18,7 +18,7 @@ class Resume extends Component {
             <Work data={data.work}/>
             <Education data={data.education}/>
             <Courses data={data.courses}/>
-            <Certifications data={data.Certifications}/>
+            <Certifications data={data.certifications}/>
           </div>
         </section>
       </div>

@@ -42,34 +42,26 @@
     ],
     "work": [
         {
-            "period": "November, 2016 - October, 2017",
-            "title": "Android Developer",
-            "company": "Máxima Sistemas",
-            "location": "Goiânia",
+            "period": "October, 2011 - Currently",
+            "title": "Software Developer",
+            "company": "CSP Consultoria",
+            "location": "Rio de Janeiro",
             "description": "I developed Android applications with highly complex business logic to support sales and billing. My role was to design new functionalities, optimize performance and improve the overall usability – oftentimes refactoring existing code and enabling integration with other systems.\nAditionaly, I managed the \"Continuous Integration\" practice and encouraged a testing culture across the teams through the introduction of new tools, technologies and techniques. As a result, I have improved software maintainability, leading to better products, faster deployment process and overall customer satisfaction.",
             "tags": ["Android", "Java", "Firebase", "REST", "JSON", "SQLite", "Gradle", "TDD", "Unit Test", "Integration Test", "System Test", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Nexus", "Git", "Continuous Integration", "DevOps"]
         },
         {
-            "period": "January, 2014 - November, 2016",
+            "period": "August, 2009 - October, 2011",
             "title": "Software Developer",
-            "company": "Dataeasy Tecnologia e Serviços",
-            "location": "Goiânia",
+            "company": "IMPA - Instituto de Matemática Pura e Aplicada",
+            "location": "Rio de Janeiro",
             "description": "I supported the development of a corporate search engine utilizing Java and Apache Solr/Lucene. This search engine processes large amounts of data through pages, documents and database crawling and indexing. Its main purpose is to provide full-text search capability – enabling users to search multiple terms in hundreds of thousands of documents in a fraction of a second. \nI had the honor of working with an open-minded team that applied new patterns and technologies to consistently achieve high-scalability, availability and top-of-the-line functionalities.\nIn addition to supporting core development, I supported the design and implementation of RESTful APIs with Jersey 2 to create developer access the search engine.\nAdditionally, I led front-end development with AngularJS and later with Angular2 driving the product to an improved user experience. Finally, for a brief period of time, I led and concluded the development of an Android application.",
             "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "TypeScript", "Jersey2", "Angular", "Angular2", "Android", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "Nexus", "GitHub", "Linux", "Continuous Integration", "DevOps"]
         },
         {
-            "period": "May, 2013 - January, 2014",
+            "period": "February, 2007 - January, 2009",
             "title": "Trainee Developer",
-            "company": "DataEasy Tecnologia e Serviços",
-            "location": "Goiânia",
-            "description": "Back-end development in the core of the engine with Java and indexing technologies.\nFront-end development using GWT (Google Web Toolkit).\nDevelopment of new front-end product components using JavaScript.\nPromoted to Plain Software Developer after completion of trainee program.",
-            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "JSP", "GWT", "Shiro", "MongoDB", "Linux"]
-        },
-        {
-            "period": "March, 2012 - January, 2013",
-            "title": "Trainee Developer",
-            "company": "Bank of Brazil (Banco do Brasil)",
-            "location": "Goiânia",
+            "company": "Usina Santa Maria",
+            "location": "Rio de Janeiro",
             "description": "Developed an application available to branches of the bank across the state.\nUtilized JSP (JavaServer Pages) and Struts 2 and PostgreSQL Database.\nEnabled integration with WordPress doing small PHP development.\nManaged back-end infrastructure configuration and resources, deployments, backup processes, etc.",
             "tags": ["Java", "PHP", "Web", "JSP", "HTML", "CSS", "Struts2", "PostgreSQL", "Memcached", "Apache Tomcat", "Apache Web Server", "Linux"]
         }
@@ -95,6 +87,28 @@
             "type": "Presential",
             "location": "Goiânia",
             "date": "2011"
+        }
+    ],    
+    "certifications": [
+        {
+            "name": "Scrum Foundation Professional",
+            "organization": "CertiProf®",
+            "date": "January 2019"
+        },
+        {
+            "name": "Oracle Certificated Business Component Developer 5",
+            "organization": "Oracle",
+            "date": "July 2019"
+        },
+        {
+            "name": "Sun Certificated Web Component Developer 5",
+            "organization": "Sun Microsystems",
+            "date": "July 2010"
+        },
+        {
+            "name": "Sun Certificated Java Programmer 6",
+            "organization": "Sun Microsystems",
+            "date": "May 2009"
         }
     ]
 }
