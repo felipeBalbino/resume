@@ -4,8 +4,8 @@
         "ocupation": "Software Engineer",
         "description": "Experienced Full Stack Developer with a true innovative attitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
         "location": {
-            "place": "Dublin, Ireland",
-            "link": "https://goo.gl/maps/VaQkVw6qQnS2",
+            "place": "Rio de Janeiro, Brazil",
+            "link": "https://goo.gl/maps/JzNzKPvqZzzEwRQz5",
             "relocationAvailability": "Available for relocation"
         },
         "telephone": "",
@@ -26,11 +26,18 @@
     },
     "education": [
         {
-            "name": "Computer Science",
-            "level": "Bachelor of Science (B.S.)",
-            "date": "February 2009 – August 2014",
-            "institution": "Pontifical Catholic University",
-            "location": "Goiânia, Brazil"
+            "name": "Architecture of Distributed Systems",
+            "level": "Specialization",
+            "date": "January 2018 – August 2019",
+            "institution": "Pontifical Catholic University of Minas Gerais",
+            "location": "Minas Gerais, Brazil"
+        },
+        {
+            "name": "Information System",
+            "level": "Bachelor",
+            "date": "January 2009 – December 2012",
+            "institution": "College Game & Souza",
+            "location": "Rio de Janeiro, Brazil"
         }
     ],
     "work": [

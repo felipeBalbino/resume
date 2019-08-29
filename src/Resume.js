@@ -6,6 +6,7 @@ import Courses from './Courses';
 
 import data from './data/data.json';
 import './Resume.css';
+import Certifications from './Certifications';
 
 class Resume extends Component {
   render() {
@@ -17,6 +18,7 @@ class Resume extends Component {
             <Work data={data.work}/>
             <Education data={data.education}/>
             <Courses data={data.courses}/>
+            <Certifications data={data.Certifications}/>
           </div>
         </section>
       </div>
